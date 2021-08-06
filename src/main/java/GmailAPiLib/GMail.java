@@ -39,7 +39,7 @@ import io.restassured.path.json.JsonPath;
 *Password@123
  */
 public class GMail {
-    private static final String APPLICATION_NAME = "NaveenAutomationLabs";
+    private static final String APPLICATION_NAME = "AutomationLabs";
     private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
     private static final String USER_ID = "me";
     /**
